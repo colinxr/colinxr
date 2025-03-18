@@ -1,36 +1,97 @@
-<div id="header" align="center">
-  <img src="your-professional-banner.jpg" width="600" height="300"/>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YOUR NAME - SOFTWARE ENGINEER</title>
+    <style>
+        body {
+            background: #000000;
+            color: #00ff00;
+            font-family: monospace;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .ascii {
+            white-space: pre;
+            font-family: "Courier New", monospace;
+            color: #00ff00;
+            border: 1px solid #00ff00;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .link {
+            color: #00ff00;
+            text-decoration: none;
+            border-bottom: 1px solid #00ff00;
+        }
+        .link:hover {
+            background: #00ff00;
+            color: #000000;
+            padding: 0 2px;
+        }
+        .code {
+            background: #000000;
+            border: 1px solid #00ff00;
+            padding: 10px;
+            margin: 10px 0;
+            font-family: monospace;
+            white-space: pre;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="ascii">
+            /===================================\
+            |    SOFTWARE ENGINEER & LEADER     |
+            |  SPECIALIZING IN ECOMMERCE SOLUTIONS  |
+            \===================================/
+        </div>
 
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/colinrabyniuk">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+        <h1>PROFESSIONAL JOURNEY</h1>
+        <div class="code">
+            BACKEND DEVELOPER @ ANATTA (2025-PRESENT)
+            • LEADING ENTERPRISE ECOMMERCE DEVELOPMENT
+            • SCALING SOLUTIONS FOR GLOBAL DTC BRANDS
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+            SENIOR ENGINEER @ DOMAINE (2023-2024)
+            • TEAM LEADERSHIP & MENTORSHIP
+            • ENTERPRISE ECOMMERCE SOLUTIONS
+            • CLIENT RELATIONSHIP MANAGEMENT
 
+            FULL STACK DEVELOPER @ ARTICLE (2019-2022)
+            • HEADLESS ECOMMERCE ARCHITECTURE
+            • STRATEGIC PRODUCT REPORTS
+            • TECH STACK EVOLUTION
+        </div>
 
-### :hammer_and_wrench: Technical Expertise
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-original.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
+        <h1>TECHNICAL EXPERTISE</h1>
+        <div class="code">
+            • JAVASCRIPT
+            • REACT
+            • VUE
+            • NODE
+            • GRAPHQL
+            • PHP/LARAVEL
+            • MYSQL
+            • CI/CD
+            • AGILE METHODOLOGY
+        </div>
 
-### :chart-line: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+        <h1>CONTACT</h1>
+        <div class="code">
+            EMAIL: [YOUR EMAIL]
+            LINKEDIN: [YOUR LINKEDIN]
+            TWITTER: [YOUR TWITTER]
+        </div>
 
-### :handshake: Let's Connect
-- Email: [your email]
-- LinkedIn: [your linkedin URL]
-- Twitter: [your twitter URL]
+        <div style="text-align: center; margin-top: 40px;">
+            <a href="#" class="link">VIEW MY WORK</a>
+        </div>
+    </div>
+</body>
+</html>
