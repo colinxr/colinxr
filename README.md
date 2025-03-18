@@ -1,6 +1,6 @@
-# Colin is Working From Bed 
+# Colin is:  
 
-*Full stack developer*
+**a Full stack developer**
 - javascript
 - python
 - php 
@@ -8,13 +8,13 @@
 - shopify 
 
 
-Learning 
-- tmux
-- neovim
+**currently learning** 
 - data science
 - ai/ml 
 - ai agents 
 - cloud infrastructure
+- tmux
+- neovim
 
-
+**probably working from bed** 
 
