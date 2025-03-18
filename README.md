@@ -1,6 +1,6 @@
 ## Colin is:  
 
-**A full stack developer:**
+**- A full stack developer:**
 - javascript
 - python
 - php 
@@ -8,7 +8,7 @@
 - shopify 
 
 
-**Currently learning:** 
+**- Currently learning:** 
 - data science
 - ai/ml 
 - ai agents 
@@ -16,9 +16,11 @@
 - tmux
 - neovim
 
-**Probably working from bed**
+**- Probably working from bed**
 
-**On (https://linkedin.com/in/colinrabyniuk)[LinkedIn]**
+**- On [LinkedIn](https://linkedin.com/in/colinrabyniuk)**
+
+
 
 
 
