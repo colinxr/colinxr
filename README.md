@@ -1,6 +1,6 @@
-# Colin is:  
+## Colin is:  
 
-**a Full stack developer**
+**A full stack developer:**
 - javascript
 - python
 - php 
@@ -8,7 +8,7 @@
 - shopify 
 
 
-**currently learning** 
+**Currently learning:** 
 - data science
 - ai/ml 
 - ai agents 
@@ -16,5 +16,7 @@
 - tmux
 - neovim
 
-**probably working from bed** 
+**Probably working from bed**
+
+
 
