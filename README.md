@@ -1,7 +1,7 @@
 # colinxr/readme.md 
 
 ### Who I am:
-a full stack developer, massive arsenal fan, write and novelist; probably working from bed, or at the library; queer.
+a full stack developer, massive arsenal fan, writer and novelist; probably working from bed, or at the library; queer.
 
 ### What I use at work: 
 javascript, tailwind, php, postgres, sanity   
