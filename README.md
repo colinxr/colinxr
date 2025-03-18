@@ -1,28 +1,20 @@
-# README.md 
+# colinxr/readme.md 
 
-### 💻 Full stack developer:
-- javascript
-- python
-- php 
-- react 
-- shopify 
+### Who I am:
+a full stack developer, massive arsenal fan, write and novelist; probably working from bed, or at the library; queer.
 
-### 🧠 Currently learning:
-- data science
-- ai agents 
-- cloud infrastructure
-- tmux
-- neovim
+### What I use at work: 
+javascript, tailwind, php, postgres, sanity   
 
-### 💤 Probably working from bed:
-- it's comfy
-- makes me feel good 
+### Projects I'm working on: 
+[Shopify Theme Manager](https://github.com/colinxr/shopify-theme-manager), [Notion Graph View](https://github.com/colinxr/notion-graph-view)
 
-### ⚽︎ Massive Arsenal fan:
-- COYG
+### Stuff I'm teaching myself:
+tmux & neovim, cloud infrastructure, advanced ai (rag, agents, etc), data science
 
-### 🔗 On [Substack](https://colinrabyniuk.substack.com/) and [LinkedIn](https://linkedin.com/in/colinrabyniuk):
-- i'd love it if you gave me a follow 
+### Places I post:  
+[Substack](https://colinrabyniuk.substack.com/), [LinkedIn](https://linkedin.com/in/colinrabyniuk), [Instagram](https://instagram.com/insta__colz2020)
+
 
 
 
