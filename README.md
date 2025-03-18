@@ -7,7 +7,6 @@
 - react 
 - shopify 
 
-
 **- Currently learning:** 
 - data science
 - ai/ml 
@@ -16,9 +15,15 @@
 - tmux
 - neovim
 
-**- Probably working from bed**
+**- Probably working from bed:**
+- it's comfy
+- makes me feel good 
 
-**- On [LinkedIn](https://linkedin.com/in/colinrabyniuk)**
+**- A massive Arsenal fan. COYG** 
+
+**- On [Substack](https://colinrabyniuk.substack.com/) and [LinkedIn](https://linkedin.com/in/colinrabyniuk).**
+
+
 
 
 
